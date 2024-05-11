@@ -1,4 +1,5 @@
-# Projeto: Jogo de Adivinhação de Cartas em ReactJS
+# Projeto: Jogo Adivinhe valor das Cartas em ReactJS
+**Advinhe se o Valor da Proxima Carta será Maior ou Menor**
 
 **Objetivo do Projeto**
 - Desenvolver um jogo divertido e desafiador em que o jogador tenta adivinhar se o valor da carta seguinte será mais alto ou mais baixo.
