@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-<img src="https://github.com/Saraiva97/maior-ou-menor-REACT/assets/93497276/7edf7b3f-974e-476d-9b38-51806babfefe" style="width: 200px"/>
+<img src="https://github.com/Saraiva97/maior-ou-menor-REACT/assets/93497276/7edf7b3f-974e-476d-9b38-51806babfefe" style="width: 300px"/>
 </div>
 
 **Como Funciona:**
